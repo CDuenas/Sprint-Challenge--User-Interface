@@ -38,7 +38,7 @@ Semantic HTML is HTML with meaning, to elaborate in HTML we can separate differe
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display:inline allows you to place multiple items on the same "line" of a page 
+display:inline allows you to place multiple items on the same "line" of a page whereas display:block does not allow for any html elements to be next to it.
 
 3. What are the 4 areas of the box model?
 
