@@ -176,7 +176,7 @@ nav img {
     align-items: center;
     justify-content: center;
     width: 100%;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
 .jumbo-img {
@@ -187,8 +187,8 @@ nav img {
 /* body content top margin */
 
 .container {
-    margin-top: 5%;
-
+    margin-top: 2%;
+    width: 100%;
 }
 
 /* boxes */
